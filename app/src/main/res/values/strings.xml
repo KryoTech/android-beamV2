@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Beam</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_activity_process">Test</string>
-    <string name="main_offline">Offline</string>
-    <string name="main_subtext">Some features may not work properly</string>
-</resources>
